@@ -1,10 +1,16 @@
 _repo: Memoirs-of-the-Dukes-of-Urbino-Volume-III-of-3-Illustrating-the-Arms-Arts-and-Literature-of-I__50577
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50577-h/images/cover.jpg
 creator:
   author:
     agent_name: Dennistoun, James
     gutenberg_agent_id: '41742'
     url: http://www.gutenberg.org/2009/agents/41742
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50577#Memoirs-of-the-Dukes-of-Urbino-Volume-III-of-3-Illustrating-the-Arms-Arts-and-Literature-of-I_
 gutenberg_issued: '2015-11-30'
 gutenberg_type: Text
 identifiers:
